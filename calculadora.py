@@ -1,3 +1,4 @@
+print('wello horld ')
 while True:
     numero_1 = input('dijite um numero ')
     numero_2 = input('dijite outro numero ')
